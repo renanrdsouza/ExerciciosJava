@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculaConsumo {
+public class CalculadoraConsumo {
     public static void main(String[] args) {
         int quilometros;
         int litros;

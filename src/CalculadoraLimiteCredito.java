@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class CalculaLimiteCredito {
+public class CalculadoraLimiteCredito {
     public static void main(String[] args) {
         int saldoInicioDoMes;
         int totalCobrado;
